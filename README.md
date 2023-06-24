@@ -1,0 +1,2 @@
+# DeepTweets
+DeepTweets is a data science project focused on the classification of tweets into two categories: Politics and Sports. The project aims to develop a machine learning model that can accurately predict the category of a given tweet, enabling effective categorization and analysis of Twitter data.
